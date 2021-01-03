@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-12-22T22:00:03 IST" name="Default suite" finished-at="2020-12-22T22:00:38 IST" duration-ms="34815">
+    <groups>
+    </groups>
+    <test started-at="2020-12-22T22:00:03 IST" name="Default test" finished-at="2020-12-22T22:00:38 IST" duration-ms="34815">
+      <class name="com.crm.test.LoginPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.crm.test.LoginPageTest@20d28811]" started-at="2020-12-22T22:00:03 IST" name="setUp" finished-at="2020-12-22T22:00:22 IST" duration-ms="18757" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateFreeCRMLoginTest()[pri:2, instance:com.crm.test.LoginPageTest@20d28811]" started-at="2020-12-22T22:00:22 IST" name="validateFreeCRMLoginTest" finished-at="2020-12-22T22:00:37 IST" duration-ms="15357" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateFreeCRMLoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.crm.test.LoginPageTest@20d28811]" started-at="2020-12-22T22:00:37 IST" name="tearDown" finished-at="2020-12-22T22:00:38 IST" duration-ms="485" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.crm.test.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
